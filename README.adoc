@@ -1,0 +1,7 @@
+Instructions:
+
+-Download, import into IDE
+
+-Run application.main class
+
+-Interact with client within CLI!
